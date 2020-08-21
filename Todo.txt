@@ -2,3 +2,4 @@ Conversation functions needed:
 - Dollar to Cents
 - Gallons to Liters
 - Hours to Minutes
+- Feet to Inches
